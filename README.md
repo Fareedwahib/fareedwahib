@@ -6,7 +6,7 @@ Software Developer
 
 I’m a software developer with a strong interest in backend development, especially using PHP and Node.js. I’ve worked on projects like a blog API and an eCommerce system where I focused on authentication, APIs, and database design. I enjoy solving problems and continuously improving my skills, and I’m particularly interested in this role because it gives me an opportunity to work on real-world client projects and grow as a developer.
 
-* 🌍  I'm based in Uganda
+* 🌍  I'm based in East Africa
 * 🖥️  See my portfolio at [Fareed Developer.](http://fareeddeveloper.tech)
 * ✉️  You can contact me at [fareedwahib29@gmail.com](mailto:fareedwahib29@gmail.com)
 * 🚀  I'm currently working on [E-restaurant full stack web App](http://https://github.com/Fareedwahib/restaurant-frontend.git)
