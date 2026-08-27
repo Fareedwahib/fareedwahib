@@ -1,6 +1,6 @@
 # Fareed Wahib
 
-Full-stack developer based in Kampala, Uganda, working across Python/Flask and Node.js/NestJS, with Next.js on the frontend. Currently building a Luganda speech-to-text prototype using Sunbird AI's API.
+Full-stack developer based in Kampala, Uganda, working across Python/Flask and Node.js/NestJS, with Next.js on the frontend. 
 
 **Tech stack:** JavaScript · TypeScript · Python · PHP · Flask · Node.js · Express.js · NestJS · Next.js · PostgreSQL · MongoDB · Vercel
 
